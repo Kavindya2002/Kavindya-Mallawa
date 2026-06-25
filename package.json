@@ -1,0 +1,36 @@
+{
+  "name": "kavindya-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.3.19",
+    "lucide-react": "^0.383.0",
+    "react-intersection-observer": "^9.13.0",
+    "react-type-animation": "^3.2.0",
+    "react-scroll": "^1.9.0",
+    "react-parallax-tilt": "^1.7.236",
+    "tsparticles": "^3.5.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.5.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-countup": "^6.5.3",
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "vite": "^5.4.0"
+  }
+}
